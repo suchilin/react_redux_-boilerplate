@@ -19,6 +19,7 @@
     "material-components-web": "^0.8.0",
     "react": "^15.5.3",
     "react-dom": "^15.5.3",
+    "react-router": "^4.0.0",
     "webpack": "^2.3.3",
     "webpack-dev-server": "^2.4.2"
   },
