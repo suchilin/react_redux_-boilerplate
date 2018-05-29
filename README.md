@@ -8,7 +8,7 @@ Simply clone this repo and install dependencies and have fun
 
 ### Installing
 
-git clone git@github.com:suchilin/react_redux_-boilerplate.git myproject
+git clone git@github.com:suchilin/react_redux_boilerplate.git myproject
 
 cd myproject
 
@@ -22,30 +22,7 @@ http://localhost:3000/
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+* [Babel](https://github.com/babel/babel) - a compiler for writing next generation JavaScript.
+* [React v16.3.2](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces
+* [React redux](https://github.com/reduxjs/react-redux) -  Official React bindings for Redux
